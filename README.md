@@ -23,8 +23,8 @@ The data includes:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/23f3004008/TDS-Project1-Data.git
-   cd TDS-Project1-Data
+   git clone https://github.com/23f3000511/Gourav-Virtual-Ta-23f3000511.git
+   cd Gourav-Virtual-Ta-23f3000511
    ```
 
 2. **Install Dependencies**
